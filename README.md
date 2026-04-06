@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=020826&height=250&section=header&text=Milton%20Mamani&fontSize=70&animation=fadeIn&fontColor=fffffe&desc=Physicist%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descSize=25&descAlign=50" alt="Milton Mamani Banner" />
-</div>
+</div> 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F2C811&center=true&vCenter=true&width=500&lines=Mathematical+Physicist;Data+Science+Builder;Fraud+%26+Credit+Risk+ML;n8n+%2B+Gemini+Automation" alt="Typing SVG" />
