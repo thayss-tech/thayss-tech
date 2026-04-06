@@ -53,14 +53,14 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
+<div align="center">
   <a href="https://github.com/thayss-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=thayss-tech&show_icons=true&theme=buefy&hide_border=true&v=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=thayss-tech&show_icons=true&theme=buefy&hide_border=true&bg_color=fffffe&title_color=020826&text_color=716040&icon_color=8c7851" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/thayss-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayss-tech&layout=compact&theme=buefy&hide_border=true&v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thayss-tech&layout=compact&theme=buefy&hide_border=true&bg_color=fffffe&title_color=020826&text_color=716040" alt="Top Languages" />
   </a>
-</p>
+</div>
 
 ---
 
