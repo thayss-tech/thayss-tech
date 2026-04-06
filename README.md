@@ -48,6 +48,8 @@
 | 💳 **[Credit Risk](https://github.com/thayss-tech/CREDIT-RISK-MODEL)** | **64.8% accuracy** (+10% over heuristics). Features GridSearchCV and probability-based decision outputs. | ![](https://img.shields.io/badge/-EDA-8C7851) | [🔗 Live App](https://credit-risk-model-brdvrp5bbgmdfjtxnyzgcs.streamlit.app/) |
 | 🕵️ **[Forensic Analytics](https://github.com/thayss-tech/GCP-SQL-POWER_BI-FRAUD-ANALYTICS)** | Identified money mule networks and **$150M/hr loss spikes** via BigQuery SQL forensics. Interactive Power BI reporting. | ![](https://img.shields.io/badge/-BigQuery-F4B400) ![](https://img.shields.io/badge/-PowerBI-F2C811) | [📊 Dashboard] |
 | 🔄 **[AI Accounting Agent](https://github.com/thayss-tech/N8N-AI-ACCOUNTING-AGENT)** | Invoice data extraction via Telegram bot. Pure multimodal AI using Gemini LLM (No OCR required). | ![](https://img.shields.io/badge/-n8n-FF6D5A) ![](https://img.shields.io/badge/-Gemini-blue) | [🎥 Video Demo](https://youtu.be/hmpsp4EKK9Q) |
+| 🚀 **[ML Deployment Web App](https://github.com/thayss-tech/ML-DEPLOYMENT-WEB-APP)** | **App Unifier.** A centralized portal deploying both Fraud and Credit Risk models with real-time confidence levels. | ![](https://img.shields.io/badge/-Python-3670A0) ![](https://img.shields.io/badge/-Streamlit-FF4B4B) | [🔗 Live Hub](https://ml-deployment-web-app-sdxdukod5bdlv2hqogitqz.streamlit.app/) |
+
 
 ---
 
