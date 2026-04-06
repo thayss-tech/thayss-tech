@@ -43,7 +43,6 @@
 
 | Project | Description (Impact & Metrics) | Tech | Live Demos |
 |---------|-------------|------|------------|
-
 | 🛡️ **[Financial Fraud](https://github.com/thayss-tech/FRAUD-DETECTION-PIPELINE)** | Handles extreme imbalance (0.3% fraud) with **94% recall**. Mapped coordinated attack patterns in transaction data. | ![](https://img.shields.io/badge/-ScikitLearn-F7931E) | [🔗 Live App](https://fraud-detection-pipeline-caurmhrkkzzavjpkh6zvrv.streamlit.app/) |
 | 💳 **[Credit Risk](https://github.com/thayss-tech/CREDIT-RISK-MODEL)** | **64.8% accuracy** (+10% over heuristics). Features GridSearchCV and probability-based decision outputs. | ![](https://img.shields.io/badge/-EDA-8C7851) | [🔗 Live App](https://credit-risk-model-brdvrp5bbgmdfjtxnyzgcs.streamlit.app/) |
 | 🕵️ **[Forensic Analytics](https://github.com/thayss-tech/GCP-SQL-POWER_BI-FRAUD-ANALYTICS)** | Identified money mule networks and **$150M/hr loss spikes** via BigQuery SQL forensics. Interactive Power BI reporting. | ![](https://img.shields.io/badge/-BigQuery-F4B400) ![](https://img.shields.io/badge/-PowerBI-F2C811) | [📊 Dashboard] |
