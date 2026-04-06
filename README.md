@@ -18,15 +18,15 @@
 </div>
 <br />
 
-> 🧪 *Aplico el rigor teórico de sistemas complejos para construir soluciones integrales de ciencia de datos.* Conecto el modelado abstracto con aplicaciones de negocio desplegadas y automatización de IA de última generación.
+> 🧪 *I apply the theoretical rigor of complex systems to build end-to-end data science solutions.* I bridge the gap between abstract modeling, deployed business applications, and next-gen AI automation.
 
-- 🕵️ **Enfoque Principal:** Analítica Forense (SQL + BI) | Riesgo Predictivo (ML).
-- 🌐 **Idiomas:** Quechua (nativo) | Español (nativo) | Portugués (fluido) | Inglés (proficiente).
-- 🇧🇷 / 🇵🇪 Residiendo en Brasil / Perú.
+- 🕵️ **Core Focus:** Forensic Analytics (SQL + BI) | Predictive Risk (ML).
+- 🌐 **Languages:** Quechua (Native) | Spanish (Native) | Portuguese (Fluent) | English (Proficient).
+- 🇧🇷 / 🇵🇪 Based in Brazil / Peru.
 
 ---
 
-## 🛠️ Tech Stack (Click for Docs)
+## 🛠️ Tech Stack (Click for Documentation)
 <div align="left">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
   <a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -43,11 +43,11 @@
 
 | Project | Description (Impact & Metrics) | Tech | Live Demos |
 |---------|-------------|------|------------|
-| 🚀 **[AI Solutions Hub](https://github.com/thayss-tech/ML-DEPLOYMENT-WEB-APP)** | **Unificador de aplicaciones.** Portal centralizado que despliega los modelos de fraude y riesgo crediticio con niveles de confianza. | ![](https://img.shields.io/badge/-Python-3670A0) ![](https://img.shields.io/badge/-Streamlit-FF4B4B) | [🔗 Live Hub](https://ml-deployment-web-app-sdxdukod5bdlv2hqogitqz.streamlit.app/) |
-| 🛡️ **[Financial Fraud](https://github.com/thayss-tech/FRAUD-DETECTION-PIPELINE)** | Manejo de desbalance extremo (0.3% fraude) con **94% recall**. Análisis de ataques coordinados. | ![](https://img.shields.io/badge/-ScikitLearn-F7931E) | [🔗 Live App](https://fraud-detection-pipeline-caurmhrkkzzavjpkh6zvrv.streamlit.app/) |
-| 💳 **[Credit Risk](https://github.com/thayss-tech/CREDIT-RISK-MODEL)** | **64.8% accuracy** (+10% sobre heurísticas). GridSearchCV y salidas probabilísticas. | ![](https://img.shields.io/badge/-EDA-8C7851) | [🔗 Live App](https://credit-risk-model-brdvrp5bbgmdfjtxnyzgcs.streamlit.app/) |
-| 🕵️ **[Forensic Analytics](https://github.com/thayss-tech/GCP-SQL-POWER_BI-FRAUD-ANALYTICS)** | Identificación de redes de mulas y picos de pérdida de **$150M/hr** mediante SQL forense. | ![](https://img.shields.io/badge/-BigQuery-F4B400) ![](https://img.shields.io/badge/-PowerBI-F2C811) | [📊 Ver Reporte](https://github.com/thayss-tech/GCP-SQL-POWER_BI-FRAUD-ANALYTICS/tree/main/dashboards) |
-| 🔄 **[AI Accounting Agent](https://github.com/thayss-tech/N8N-AI-ACCOUNTING-AGENT)** | Extracción de datos de facturas mediante bot de Telegram. IA multimodal pura sin OCR. | ![](https://img.shields.io/badge/-n8n-FF6D5A) ![](https://img.shields.io/badge/-Gemini-blue) | [🎥 Video Demo](https://youtu.be/hmpsp4EKK9Q) |
+| 🚀 **[AI Solutions Hub](https://github.com/thayss-tech/ML-DEPLOYMENT-WEB-APP)** | **App Unifier.** A centralized portal deploying both Fraud and Credit Risk models with real-time confidence levels. | ![](https://img.shields.io/badge/-Python-3670A0) ![](https://img.shields.io/badge/-Streamlit-FF4B4B) | [🔗 Live Hub](https://ml-deployment-web-app-sdxdukod5bdlv2hqogitqz.streamlit.app/) |
+| 🛡️ **[Financial Fraud](https://github.com/thayss-tech/FRAUD-DETECTION-PIPELINE)** | Handles extreme imbalance (0.3% fraud) with **94% recall**. Mapped coordinated attack patterns in transaction data. | ![](https://img.shields.io/badge/-ScikitLearn-F7931E) | [🔗 Live App](https://fraud-detection-pipeline-caurmhrkkzzavjpkh6zvrv.streamlit.app/) |
+| 💳 **[Credit Risk](https://github.com/thayss-tech/CREDIT-RISK-MODEL)** | **64.8% accuracy** (+10% over heuristics). Features GridSearchCV and probability-based decision outputs. | ![](https://img.shields.io/badge/-EDA-8C7851) | [🔗 Live App](https://credit-risk-model-brdvrp5bbgmdfjtxnyzgcs.streamlit.app/) |
+| 🕵️ **[Forensic Analytics](https://github.com/thayss-tech/GCP-SQL-POWER_BI-FRAUD-ANALYTICS)** | Identified money mule networks and **$150M/hr loss spikes** via BigQuery SQL forensics. Interactive Power BI reporting. | ![](https://img.shields.io/badge/-BigQuery-F4B400) ![](https://img.shields.io/badge/-PowerBI-F2C811) | [📊 Dashboard] |
+| 🔄 **[AI Accounting Agent](https://github.com/thayss-tech/N8N-AI-ACCOUNTING-AGENT)** | Invoice data extraction via Telegram bot. Pure multimodal AI using Gemini LLM (No OCR required). | ![](https://img.shields.io/badge/-n8n-FF6D5A) ![](https://img.shields.io/badge/-Gemini-blue) | [🎥 Video Demo](https://youtu.be/hmpsp4EKK9Q) |
 
 ---
 
@@ -68,5 +68,5 @@
 
 <div align="center">
   <br />
-  <sub>💖 Dedicado a Melyssa Thayss – mi motivación y fortaleza.</sub>
+  <sub>💖 Dedicated to Melyssa Thayss – my motivation and strength.</sub>
 </div>
