@@ -20,7 +20,8 @@
 
 > 🧪 *I apply the theoretical rigor of complex systems to build end-to-end data science solutions.* I bridge the gap between abstract modeling, deployed business applications, and next-gen AI automation.
 
-- 🕵️ **Core Focus:** Forensic Analytics (SQL + BI) | Predictive Risk (ML).
+
+- 🕵️ **Core Focus:** Forensic Analytics (SQL + BI) | Financial fraud detection and  Predictive Risk (ML) | Automation with n8n.
 - 🌐 **Languages:** Quechua (Native) | Spanish (Native) | Portuguese (Proficient) | English (Proficient).
 - 🇧🇷 / 🇵🇪 Based in Brazil / Peru.
 
